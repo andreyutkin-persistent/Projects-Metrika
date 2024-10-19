@@ -271,7 +271,7 @@ footer {
     max-width: 1400px;
     height: 717px;
     margin: 0 auto;
-    background-image: url(/resources/bad.png);
+    background-image: url(../resources/bad.png);
     background-color: linear-gradient(180deg, rgba(0, 0, 0, 0) 0.52%, rgba(0, 0, 0, 0.4) 82.81%);
 }
 
