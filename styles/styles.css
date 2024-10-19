@@ -76,7 +76,7 @@ footer {
     height: 500px;
     max-width: 1180px;
     margin-top: 30px;
-    background-image: url('../resources/img.png');
+    background-image: url(../resources/img.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
